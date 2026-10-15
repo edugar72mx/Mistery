@@ -9,19 +9,5 @@
         "name": "EGL"
     },
     "items": [
-        {
-            "id": "https://github.com/edugar72mx/Mistery/sirenas/",
-            "url": "https://github.com/edugar72mx/Mistery/sirenas/",
-            "title": "sirenas",
-            "summary": "en la isla santa maria",
-            "content_html": "<p>en la isla santa maria</p>",
-            "author": {
-                "name": "EGL"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-10-14T11:31:41-07:00",
-            "date_modified": "2026-10-14T11:41:09-07:00"
-        }
     ]
 }
